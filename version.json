@@ -1,0 +1,19 @@
+{
+  "latestVersionCode": 20402,
+  "latestVersionName": "2.4.2",
+  "apkUrl": "https://naver.me/FNtcPu68",
+  "changelog": [
+    "미니플레이어 위치 이동 개선",
+    "미니플레이어 시작/중지",
+    "계기판모드 속도/단속카메라/미니지도 추가(공공데이타 연동, 카카오네비 화면 크롤링)",
+    "계기판모드 주야간변경 버그개선",
+    "계기판모드 날씨 자동모드 디테일 개선"
+  ],
+  "forceUpdate": false,
+  "notice": {
+    "id": "",
+    "enabled": false,
+    "title": "",
+    "message": ""
+  }
+}
